@@ -1,4 +1,12 @@
 ## Hi there 👋
+- 🔭 I’m currently studying in HKUST 
+- 🌱 I’m currently learning C++ and Python
+- 👯 I’m looking to collaborate on ICPC
+- 🤔 I’m looking for help with some complex algorithms
+- 💬 Ask me about C++-oriented games development
+- 📫 How to reach me: E-mail please
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!--
 **Hsin-thefirst/Hsin-thefirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
