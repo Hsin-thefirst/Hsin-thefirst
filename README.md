@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently studying in HKUST GZ
 - 🌱 I’m currently learning C++ and Python
-- 👯 I’m looking to collaborate on ICPC
+- 👯 I’m looking to collaborate on
 - 🤔 I’m looking for help with some complex algorithms
 - 💬 Ask me about C++-oriented games development
 - 📫 How to reach me: E-mail please
